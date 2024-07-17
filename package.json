@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.eloistree.allxrpresstoevent",                              
+  "displayName": "All XR Buttons Pressed",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Trigger event when all triggers, buttons or all are down.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2024_07_17_PressAllButtonsXR.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
